@@ -1,0 +1,44 @@
+{
+  "name": "[Your Name]",
+  "contact": {
+    "phone": "[Phone Number]",
+    "email": "[Email Address]",
+    "linkedin": "[LinkedIn Profile URL (Optional)]"
+  },
+  "summary": "[Summary Text]",
+  "experience": [
+    {
+      "title": "[Title]",
+      "company": "[Company Name]",
+      "location": "[City, State]",
+      "dates": "[Start Year] - Present",
+      "achievements": [
+        "[Bullet Point 1]",
+        "[Bullet Point 2]",
+        "[Bullet Point 3]",
+        // ... (Optional)
+      ]
+    },
+    {
+      // ... (Previous Roles)
+    }
+  ],
+  "education": {
+    "degree": "[Degree Name]",
+    "school": "[University Name]",
+    "location": "[City, State]",
+    "graduationYear": "[Graduation Year]"
+  },
+  "skills": [
+    "[Skill 1]",
+    "[Skill 2]",
+    "[Skill 3]",
+    // ...
+  ],
+  "keywords": [
+    "[Keyword 1]",
+    "[Keyword 2]",
+    "[Keyword 3]",
+    // ...
+  ]
+}
